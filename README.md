@@ -6,7 +6,7 @@ This project demonstrates how to build an image classification model using Tenso
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Setup](#setup)
-- [Contributing](#contributing)s
+- [Contributing](#contributing)
 
 ## Project Overview
 This project uses TensorFlow and Keras to build and train a convolutional neural network (CNN) for image classification. The model is designed to classify images of 10 different items. The dataset is divided into training and validation sets with an 80-20 split.
