@@ -1,8 +1,4 @@
-Creating a README file for your TensorFlow image classification project can help others understand and use your project effectively. Here's a comprehensive README template for your project:
-
----
-
-# TensorFlow Image Classification Project
+# Pill Identification Using Deep Learning
 
 This project demonstrates how to build an image classification model using TensorFlow, Keras, and a dataset of 10 different items: Alaxan, Bactidol, Bioflu, Biogesic, DayZinc, Decolgen, Fish Oil, Kremil S, Medicol, and Neozep. The model is trained to classify these items using convolutional neural networks (CNNs).
 
@@ -137,10 +133,3 @@ pred_df["actual"] = pred_df["actual"].apply(lambda x: items[x])
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-This template provides a clear and organized structure for your README file, making it easy for others to understand and use your project. Adjust the content as needed to better fit your specific project details.
